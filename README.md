@@ -1,0 +1,2 @@
+# Get_Win10_WIFI_Password
+一键自动获取win10电脑所有连接过的wifi密码
